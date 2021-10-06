@@ -1,0 +1,25 @@
+.align {
+/* width:500px; */
+background-color: rgb(231, 224, 224);
+margin-top: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 5px 10px #aaa8a8;
+}
+
+.cen{
+    width:500px;
+}
+
+.col{
+    background-color:#aaa8a8 ;
+    color:black;
+    border: #aaa8a8;
+}
+
+.dec{
+    text-decoration: none;
+    color: black;
+}
+
